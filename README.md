@@ -78,8 +78,9 @@
 > 包括高校专业的网站、申请材料的要求、申请流程、录取案例等
 
 
-| 国家 | 高校网站及申请经验 |
-| --- | --- |
+| 国家 | 高校网站及申请
+| 香港 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/39)|
+| 新加坡 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/40)|
 | 瑞典 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/21)|
 | 冰岛 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/22)|
 | 挪威 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/23)|
