@@ -35,18 +35,18 @@
 
 | 项目 | 资源链接 |
 | --- | --- |
-| IELTS |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/36)|
-| TOEFL |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/66)|
-|  PTE  |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/40)|
-| 多邻国 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/97)|
-|  GRE  |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/67)|
-|  GMAT  |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/92)|
-|  德语  |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/22)|
-|  法语  |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/29)|
-|  日语  |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/38)|
-|西班牙语|[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/23)|
-| 荷兰语 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/110)|
-| 丹麦语 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/95)|
+| IELTS |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| TOEFL |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/4)|
+|  PTE  |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/5)|
+| 多邻国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/6)|
+|  GRE  |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/7)|
+|  GMAT  |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/8)|
+|  德语  |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/9)|
+|  法语  |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/10)|
+|  日语  |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/11)|
+|西班牙语|[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/12)|
+| 荷兰语 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/13)|
+| 丹麦语 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/14)|
 
 
 
@@ -57,23 +57,18 @@
 
 | 类目 | 资源链接 |
 | --- | --- |
-| CV PS RL SOP合集 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/109)|
-| PHD申请从套磁到面试 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/91)|
-| 奖学金申请合集 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/9)|
-| 暑校/证书/背景提升合集 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/64)|
+| CV PS RL SOP合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| Fiverr网站文书润色的老师评价 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 奖学金申请合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 暑校/证书/背景提升合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
 
-[留学生活里需要注意的一切（欢迎补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/98)
-
-[「Shea分享」CUHK传媒申请须知与文书打磨](https://github.com/orgs/Women-Study-Abroad-EU/discussions/65)
-
-[文书润色 | Fiverr网站文书老师的推荐与评价（持更，欢迎补充](https://github.com/orgs/Women-Study-Abroad-EU/discussions/114)
 
 ## 转码经验
 
 | 类目 | 资源链接 |
 | --- | --- |
-| 转码之申请院校篇 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/12)|
-| 转码之实践篇-前端后端算法 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/49)|
+| 转码之申请院校篇 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 转码之实践篇-前端后端算法 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
 
 
 
@@ -84,20 +79,20 @@
 
 | 国家 | 高校网站及申请经验 |
 | --- | --- |
-| 瑞典 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/13)|
-| 冰岛 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/124)|
-| 挪威 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/68)|
-| 芬兰 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/60)|
-| 荷兰 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/69)|
-| 丹麦 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/70)|
-| 爱尔兰 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/20)|
-| 比利时 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/71)|
-| 德国 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/19)|
-| 法国 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/21)|
-| 英国 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/87)|
-| 瑞士 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/102)|
-| 意大利 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/101)|
-| 加拿大 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/24)|
-| 澳洲 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/47)|
-| 美国 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/63)|
-| 日本 |[点击查看补充](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/50)|
+| 瑞典 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 冰岛 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 挪威 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 芬兰 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 荷兰 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 丹麦 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 爱尔兰 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 比利时 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 德国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 法国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 英国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 瑞士 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 意大利 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 加拿大 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 澳洲 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 美国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| 日本 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
