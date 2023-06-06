@@ -24,7 +24,7 @@
 
 > 下面是聊天互动楼，欢迎点进链接评论，加入讨论！
 
-[「新人报道」来聊天许愿吧！](https://github.com/Women-Study-Abroad-EU/WomenStudyAbroad/issues/2) 
+[「新人报道」来聊天许愿吧！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2) 
 
 
 
