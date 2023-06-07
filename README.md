@@ -96,6 +96,6 @@
 | 瑞士 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/32)|
 | 意大利 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/33)|
 | 加拿大 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/34)|
-| 澳洲 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/35)|
+| 澳大利亚 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/35)|
 | 美国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/36)|
 | 日本 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/37)|
