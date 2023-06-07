@@ -27,7 +27,7 @@
 
 [「新人报道」来聊天许愿吧！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2) 
 
-[「姐妹茶话会」想法与建议（可以夸夸）](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 
+[「姐妹茶话会」想法与建议（也可以夸夸）](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 
 
 
 ## 语言考试
