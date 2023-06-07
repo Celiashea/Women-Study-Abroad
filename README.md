@@ -62,7 +62,7 @@
 | --- | --- |
 | CV PS RL SOP合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/15)|
 | Fiverr网站文书润色的老师评价 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/16)|
-| 奖学金申请合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/17)|
+| CSC/奖学金申请合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/17)|
 | 暑校/证书/背景提升合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/18)|
 | 用ChatGPT等AI工具助力申请 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
 
