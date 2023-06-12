@@ -110,3 +110,7 @@
 ### 💞 Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=Celiashea/Women-Study-Abroad-24fall)](https://github.com/Celiashea/Women-Study-Abroad-24fall/graphs/contributors)
+
+### 声明
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。<a href="mailto:595666367@qq.com">联系我</a>
