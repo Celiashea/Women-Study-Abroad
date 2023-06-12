@@ -119,4 +119,4 @@
 👩‍💻I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 
 
-欢迎有意参与仓库建设和管理的姊妹加入[Discord姊妹留学群聊](https://discord.gg/BmMGyDTW)
+欢迎有意参与仓库建设和管理的姊妹加入[Discord群聊｜海妖的呼唤](https://discord.gg/BmMGyDTW)
