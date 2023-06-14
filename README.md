@@ -38,7 +38,7 @@
 | 姊妹 | 分享内容 |
 | --- | --- |
 | JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
-
+| JustDoItSis |[还在硬拼三维？如何提高你的申请软实力！](https://github.com/Celiashea/Women-Study-Abroad/issues/44)|
 
 ## 语言考试
 
