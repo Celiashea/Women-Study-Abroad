@@ -31,7 +31,7 @@
 
 [「姐妹茶话会」想法与建议（也可以夸夸）](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 
 
-[「海外生存指南」学姐告诉你一些需要避雷的地方](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
+[「避雷贴」学姐淋过雨所以想为你打伞](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
 
 ### 姊妹分享
 
