@@ -112,7 +112,7 @@
 | 加拿大 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/34)|
 | 澳大利亚 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/35)|
 | 美国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/36)|
-| 日本 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/37)|
+| 日韩 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/37)|
 
 
 ### 声明
