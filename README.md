@@ -33,6 +33,12 @@
 
 [「姐妹茶话会」想法与建议（也可以夸夸）](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 
 
+### 姊妹分享
+
+| 姊妹 | 分享内容 |
+| --- | --- |
+| Just |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
+
 
 ## 语言考试
 
