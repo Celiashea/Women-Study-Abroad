@@ -92,9 +92,9 @@
 > 可以推荐一些项目，特别是**专属女性**的**申请tips/项目/政策**
 
 
-| 国家地区 | 高校网站及申请|
+| 地区 | 高校网站及申请|
 | --- | --- |
-| 中国香港 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/39)|
+| 港澳 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/39)|
 | 新加坡 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/40)|
 | 瑞典 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/21)|
 | 冰岛 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/22)|
