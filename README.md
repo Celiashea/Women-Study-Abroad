@@ -130,6 +130,7 @@
 
 ### 贡献者
 
+[![Contributors](https://contrib.rocks/image?repo=Celiashea/awesome-free-chatgpt)](https://github.com/Celiashea/Women-Study-Abroad/graphs/contributors)
 
 
 ### 欢迎联系
