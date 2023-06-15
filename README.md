@@ -35,6 +35,8 @@
 
 ### 姊妹分享
 
+> 感谢新建issue写经验贴分享的姊妹
+
 | 姊妹 | 分享内容 |
 | --- | --- |
 | JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
