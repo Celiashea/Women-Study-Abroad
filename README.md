@@ -12,16 +12,16 @@
 
 > 有疑问的姊妹可以点进[「姐妹茶话会」](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) ，一起交流。 ［男的装女一生阳痿］
 
-### 使用指南
+## 使用指南
 
 
 | 板块 | 说明 |
 | --- | --- |
-| - [语言考试](#语言考试) | 【学习资料】【学习路径】【考试经验】|
-| 文书材料 | 【文书写作】【文书润色】【背景提升】 |
-| 转码经验 | 【文转码申请】【转码补课】【写代码】|
-| 申请经验 | 【申请网站】【申请材料要求】【录取案例】 |
-
+| [语言考试](#语言考试) | 【学习资料】【学习路径】【考试经验】|
+| [文书材料](#文书材料) | 【文书写作】【文书润色】【背景提升】 |
+| [转码经验](#转码经验) | 【文转码申请】【转码补课】【写代码】|
+| [申请经验](#申请经验) | 【申请网站】【申请材料要求】【录取案例】 |
+| [姊妹分享](#姊妹分享) | 【干货分享】【姊妹Ask Me Anything】|
 
 > 任何有用的网站、经验贴、工具等资源链接都可以po到issues对应楼里，特别是**专属女性**的**申请tips/项目/奖学金/政策**
 
@@ -34,27 +34,6 @@
 [「避雷贴」学姐淋过雨所以想为你打伞](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
 
 
-
-## 目录
-
-- [姊妹分享](#姊妹分享)
-- [语言考试](#语言考试)
-- [文书材料](#文书材料)
-- [转码经验](#转码经验)
-- [申请经验](#申请经验)
-- [鸣谢与声明](#鸣谢与声明)
-
-## 姊妹分享
-
-> 感谢新建issue写经验贴分享的姊妹
-
-| 姊妹 | 分享内容 |
-| --- | --- |
-| JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
-| JustDoItSis |[还在硬拼三维？如何提高你的申请软实力！](https://github.com/Celiashea/Women-Study-Abroad/issues/44)|
-| JustDoItSis | [提供给本科生的海外暑研机会（多种学科）](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
-
-[↑ 返回目录 ↑](#目录)
 
 ## 语言考试
 
@@ -75,8 +54,7 @@
 | 荷兰语 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/13)|
 | 丹麦语 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/14)|
 
-
-[↑ 返回目录 ↑](#目录)
+[↑ 返回顶部 ↑](#使用指南)
 
 
 ## 文书材料
@@ -93,7 +71,7 @@
 | 暑校/证书/背景提升合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/18)|
 | 用ChatGPT等AI工具助力申请 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
 
-[↑ 返回目录 ↑](#目录)
+[↑ 返回顶部 ↑](#使用指南)
 
 ## 转码经验
 
@@ -102,7 +80,7 @@
 | 转码之申请院校篇 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/19)|
 | 转码之实践篇-前端后端算法 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/20)|
 
-[↑ 返回目录 ↑](#目录)
+[↑ 返回顶部 ↑](#使用指南)
 
 
 ## 申请经验
@@ -124,14 +102,23 @@
 | 美国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/36)|
 | 日韩 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/37)|
 
-[↑ 返回目录 ↑](#目录)
+[↑ 返回顶部 ↑](#使用指南)
+
+
+
+## 姊妹分享
+
+> 感谢新建issue写经验贴分享的姊妹
+
+| 姊妹 | 分享内容 |
+| --- | --- |
+| JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
+| JustDoItSis |[还在硬拼三维？如何提高你的申请软实力！](https://github.com/Celiashea/Women-Study-Abroad/issues/44)|
+| JustDoItSis | [提供给本科生的海外暑研机会（多种学科）](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
+
+[↑ 返回顶部 ↑](#使用指南)
 
 ## 鸣谢与声明
-
-### 贡献者
-
-[![Contributors](https://contrib.rocks/image?repo=Celiashea/awesome-free-chatgpt)](https://github.com/Celiashea/Women-Study-Abroad/graphs/contributors)
-
 
 ### 欢迎联系
 
@@ -145,10 +132,14 @@
 
 欢迎有意参与仓库建设和管理的姊妹加入[Discord群聊｜海妖的呼唤](https://discord.gg/BmMGyDTW)
 
+### 贡献者
+
+[![Contributors](https://contrib.rocks/image?repo=Celiashea/Women-Study-Abroad)](https://github.com/Celiashea/Women-Study-Abroad/graphs/contributors)
+
 
 
 ### 声明
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
 
-[↑ 返回目录 ↑](#目录)
+[↑ 返回顶部 ↑](#使用指南)
