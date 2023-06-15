@@ -33,7 +33,18 @@
 
 [「避雷贴」学姐淋过雨所以想为你打伞](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
 
-### 姊妹分享
+
+
+## 目录
+
+- [姊妹分享](#姊妹分享)
+- [语言考试](#语言考试)
+- [文书材料](#文书材料)
+- [转码经验](#转码经验)
+- [申请经验](#申请经验)
+- [鸣谢与声明](#鸣谢与声明)
+
+## 姊妹分享
 
 > 感谢新建issue写经验贴分享的姊妹
 
@@ -107,12 +118,13 @@
 | 美国 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/36)|
 | 日韩 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/37)|
 
+## 鸣谢与声明
 
-### 声明
+### 贡献者
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
 
-#### 欢迎联系
+
+### 欢迎联系
 
 
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
@@ -123,3 +135,10 @@
 
 
 欢迎有意参与仓库建设和管理的姊妹加入[Discord群聊｜海妖的呼唤](https://discord.gg/BmMGyDTW)
+
+
+
+### 声明
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
+
