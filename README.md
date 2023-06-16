@@ -124,7 +124,7 @@
 
 > 欢迎有意参与仓库建设和管理的姊妹加入
 
-[![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BmMGyDTW)
+[![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/UV5nUHYb)
 
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
 [![](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
