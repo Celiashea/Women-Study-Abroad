@@ -33,6 +33,17 @@
 
 [「避雷贴」学姐淋过雨所以想为你打伞](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
 
+## 姊妹分享
+
+> 感谢新建issue写经验贴分享的姊妹
+
+| 姊妹 | 分享内容 |
+| --- | --- |
+| JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
+| JustDoItSis |[还在硬拼三维？如何提高你的申请软实力！](https://github.com/Celiashea/Women-Study-Abroad/issues/44)|
+| JustDoItSis | [提供给本科生的海外暑研机会（多种学科）](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
+
+[↑ 返回顶部 ↑](#使用指南)
 
 
 ## 语言考试
@@ -106,17 +117,7 @@
 
 
 
-## 姊妹分享
 
-> 感谢新建issue写经验贴分享的姊妹
-
-| 姊妹 | 分享内容 |
-| --- | --- |
-| JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
-| JustDoItSis |[还在硬拼三维？如何提高你的申请软实力！](https://github.com/Celiashea/Women-Study-Abroad/issues/44)|
-| JustDoItSis | [提供给本科生的海外暑研机会（多种学科）](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
-
-[↑ 返回顶部 ↑](#使用指南)
 
 ## 鸣谢与声明
 
