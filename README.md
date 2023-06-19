@@ -130,7 +130,7 @@
 [![](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
 [![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
->  Please consider buying me a coffee [![celiashea.jpg](https://i.postimg.cc/134GxxwJ/celiashea.jpg)](https://postimg.cc/xXDJH4sz)
+>  Please consider buying me a coffee [Donate](https://postimg.cc/xXDJH4sz)
 
 
 
