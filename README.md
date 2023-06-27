@@ -102,11 +102,13 @@
 
 ### 各行各业的她
 
-> 包括各个专业申请材料的要求、录取案例等
+> 包括各个专业申请材料的特殊要求、录取案例等
 
 | 领域 | 申请指南 |
 | --- | --- |
-| 社科申请经验 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
+| 文社科申请经验 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
+| 理工科申请经验 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
+
 
 
 ### 全球留学的她
