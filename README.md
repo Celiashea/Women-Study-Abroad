@@ -106,8 +106,8 @@
 
 | 领域 | 申请指南 |
 | --- | --- |
-| 文社科申请经验 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
-| 理工科申请经验 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
+| 文科/社科 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/48)|
+| 理科/工科 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/49)|
 
 
 
