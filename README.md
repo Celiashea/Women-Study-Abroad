@@ -33,6 +33,8 @@
 
 [「避雷贴」学姐淋过雨但是想为你打伞](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
 
+
+
 ## 姊妹分享
 
 > 感谢新建issue写经验贴分享的姊妹
@@ -81,6 +83,7 @@
 | CSC/奖学金申请合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/17)|
 | 暑校/证书/背景提升合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/18)|
 | 用ChatGPT等AI工具助力申请 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
+| 社科申请经验 | |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)|
 
 [↑ 返回顶部 ↑](#使用指南)
 
