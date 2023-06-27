@@ -83,7 +83,7 @@
 | CSC/奖学金申请合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/17)|
 | 暑校/证书/背景提升合集 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/18)|
 | 用ChatGPT等AI工具助力申请 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
-| 社科申请经验 | |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
+
 
 [↑ 返回顶部 ↑](#使用指南)
 
@@ -99,7 +99,19 @@
 
 ## 申请经验
 
-> 包括高校专业的网站、申请材料的要求、申请流程、录取案例等
+
+### 各行各业的她
+
+> 包括各个专业申请材料的要求、录取案例等
+
+| 领域 | 申请指南 |
+| --- | --- |
+| 社科申请经验 |[点击查看补充](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/46)|
+
+
+### 全球留学的她
+
+> 包括各个地区高校专业的网站、申请材料的要求、申请流程、录取案例等
 
 > 可以推荐一些项目，特别是**专属女性**的**申请tips/项目/政策**
 
