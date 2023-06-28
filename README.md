@@ -44,6 +44,7 @@
 | JustDoItSis |[女生申请国外STEM专业？你需要知道你可利用的优势！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
 | JustDoItSis |[还在硬拼三维？如何提高你的申请软实力！](https://github.com/Celiashea/Women-Study-Abroad/issues/44)|
 | JustDoItSis | [提供给本科生的海外暑研机会（多种学科）](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
+| Heystone999 | [23fall Waterloo ECE MEng non-Coop，ask me anything](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/34) |
 
 [↑ 返回顶部 ↑](#使用指南)
 
