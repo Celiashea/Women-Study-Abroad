@@ -146,7 +146,7 @@
 > I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
 [![](https://img.shields.io/twitter/follow/whybichzhsh1?style=social)](https://twitter.com/whybichzhsh1)
-[![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
+[![](https://img.shields.io/github/followers/Celiashea?style=social)](https://github.com/Celiashea)
 
 >  为爱发电，可以给Celiashea买颗糖么？ <a href='https://postimg.cc/k22KyY9W' target='_blank'><img src='https://i.postimg.cc/k22KyY9W/celia.png' border='0' alt='celia'/></a>
 
