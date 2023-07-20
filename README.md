@@ -13,9 +13,9 @@
 
 点击蓝字即可查看，任何有用的网站、经验贴、工具等资源链接都可以po到issues对应楼里，特别是**专属女性**的**申请tips/项目/奖学金/政策**
 
-> 可以fork仓库之后提交issue，也可以直接在对应issue里贴资料链接等等，有疑问的姊妹可以点进[「姐妹茶话会」](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 一起交流。 ［男的装女一生阳痿］
+> 欢迎姐妹们补充，集思广益，经验共享。可以fork仓库之后提交issue，也可以直接在对应issue里贴资料链接等等。
 
-
+> 有疑问的姊妹可以点进[「姐妹茶话会」](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 一起交流。 ［男的装女一生阳痿］
 
 > 下面是聊天互动楼，欢迎点进链接评论，加入讨论！
 
