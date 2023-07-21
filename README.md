@@ -143,7 +143,7 @@
 
 ### Contact
 
-欢迎有意参与本仓库建设和管理的姊妹加入交流群  [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
+欢迎有意参与本repo建设和管理的姊妹加入交流群  [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
