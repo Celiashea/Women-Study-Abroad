@@ -15,8 +15,6 @@
 
 > 欢迎姐妹们补充，集思广益，经验共享。可以fork仓库之后提交issue，也可以直接在对应issue里贴资料链接等等。
 
-> 有疑问的姊妹可以点进[「姐妹茶话会」](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38) 一起交流。 ［男的装女一生阳痿］
-
 > 下面是聊天互动楼，欢迎点进链接评论，加入讨论！
 
 [「新人报道」来聊天许愿吧！](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2) 
@@ -149,7 +147,7 @@
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
-[![](https://img.shields.io/github/followers/Celiashea?style=social)](https://github.com/Celiashea)
+[![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
 ### Donate
 
