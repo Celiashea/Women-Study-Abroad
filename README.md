@@ -149,7 +149,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
 [![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
-### Donate
+### Buy a coffee
 
 为爱发电，可以给Celiashea买颗糖么？ 
 
