@@ -141,7 +141,7 @@
 
 ## 鸣谢与声明
 
-### 🩷 Contact
+### 💛 Contact
 
 欢迎有意参与本repo建设和管理的姊妹加入交流群  [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
 
