@@ -31,7 +31,7 @@
 | 板块 | 说明 |
 | --- | --- |
 | 💎[语言考试](#语言考试) | 【学习资料】【学习路径】【考试经验】|
-| 🪄[文书材料](#文书材料) | 【文书写作】【文书润色】【背景提升】 |
+| 📚[文书材料](#文书材料) | 【文书写作】【文书润色】【背景提升】 |
 | 👩‍💻[转码经验](#转码经验) | 【文转码申请】【转码补课】【写代码】|
 | 🌟[申请经验](#申请经验) | 【申请网站】【申请材料要求】【录取案例】 |
 | 👭[姊妹分享](#姊妹分享) | 【干货分享】【姊妹互助Ask Me Anything】|
@@ -141,7 +141,7 @@
 
 ## 鸣谢与声明
 
-### Contact
+### 🩷 Contact
 
 欢迎有意参与本repo建设和管理的姊妹加入交流群  [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
 
@@ -149,7 +149,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
 [![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
-### Buy a coffee
+### ❤️ Buy a coffee
 
 为爱发电，可以给Celiashea买颗糖么？ 
 
@@ -157,7 +157,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 
 
-### Contributors
+### 🧡 Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=Celiashea/Women-Study-Abroad)](https://github.com/Celiashea/Women-Study-Abroad/graphs/contributors)
 
