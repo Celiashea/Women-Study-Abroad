@@ -151,7 +151,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ### ❤️ Buy a coffee
 
-为爱发电，可以给Celiashea买颗糖么？ 
+为爱发电，考虑给Celiashea买杯奶茶 
 
 <a href='https://postimg.cc/k22KyY9W' target='_blank'><img src='https://i.postimg.cc/k22KyY9W/celia.png' border='0' alt='celia'/></a>
 
