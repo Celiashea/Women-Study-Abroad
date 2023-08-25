@@ -155,7 +155,7 @@
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
-[![](https://img.shields.io/badge/-Celia_atti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61550683108775)](https://www.facebook.com/profile.php?id=61550683108775)
+[![](https://img.shields.io/badge/-Celia_Atti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61550683108775)](https://www.facebook.com/profile.php?id=61550683108775)
 [![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
 
 
