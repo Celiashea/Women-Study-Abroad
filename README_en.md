@@ -11,7 +11,7 @@ Adding some application tips/programs/scholarships/policies exclusive to women.
 
 > Hope like-minded sisters can journey together! Both love and dreams should be win-win collaborations~
 
-**Please ⭐ Star to show support! Star and follow so you won't get lost when you look for this repository later~**
+**Please ⭐ Star to show support ^-^**
 
 ## User Guide
 
