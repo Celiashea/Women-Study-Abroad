@@ -21,11 +21,11 @@ Please click on the blue text to view. Any useful websites, experience sharing, 
 
 > Below are interactive discussions, please feel free to click the links to comment and join the conversation!
 
-- ["Newbie Introduction"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
+- ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
   
 - ["Sisters Tea Party": Thoughts and Suggestions (Compliments are also welcome!)](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
   
-- ["Pitfall Discussion": Share a mistake you made during your study abroad journey.](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
+- ["Oh Dear": Share a mistake you made during your study abroad journey.](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
   
 
 ## Table of Contents
