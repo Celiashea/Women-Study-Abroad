@@ -100,7 +100,7 @@ Click on the blue text to view. Any useful websites, experience sharing, tools, 
 
 ## Application Experiences
 
-### She from Various Fields
+### Women from Various Fields
 
 > Including special requirements for application materials of various disciplines, admission cases, etc.
 
@@ -109,7 +109,7 @@ Click on the blue text to view. Any useful websites, experience sharing, tools, 
 | Arts/Humanities |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/48)|
 | Sciences/Engineering |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/49)|
 
-### She from All Over the World
+### Women from All Over the World
 
 > Including websites of institutions in various regions, requirements for application materials, application process, admission cases, etc.
 
@@ -139,4 +139,20 @@ Please consider buying me a coffee.
 
 ### 💛 Contact
 
-Sisters interested in contributing to and managing this repo are welcome to join the discussion group.
+Sisters interested in contributing to and managing this repo are welcome to join the discussion group. [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
+
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
+[![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
+[![](https://img.shields.io/badge/-Celia_Atti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61550683108775)](https://www.facebook.com/profile.php?id=61550683108775)
+[![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
+
+
+### 🧡 Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=Celiashea/Women-Study-Abroad)](https://github.com/Celiashea/Women-Study-Abroad/graphs/contributors)
+
+
+
+### License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
