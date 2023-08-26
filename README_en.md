@@ -2,10 +2,10 @@
 
 
 
-[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
-[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
+[![CN doc](https://img.shields.io/badge/中文版-blue.svg)](README.md)
+[![EN doc](https://img.shields.io/badge/English-blue.svg)](README_en.md)
 
-# Welcome sisters to share experiences on studying abroad
+**Welcome sisters to share experiences on studying abroad**
 
 Adding some application tips/programs/scholarships/policies exclusive to women.
 
