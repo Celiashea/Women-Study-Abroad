@@ -11,7 +11,7 @@ Adding some application tips/programs/scholarships/policies exclusive to women.
 
 > Hope like-minded sisters can journey together! Both love and dreams should be win-win collaborations~
 
-**Give a ⭐ Star to show support! Star and follow so you won't get lost when you look for this repository later~**
+**Please ⭐ Star to show support! Star and follow so you won't get lost when you look for this repository later~**
 
 ## User Guide
 
@@ -48,6 +48,84 @@ Click on the blue text to view. Any useful websites, experience sharing, tools, 
 | JustDoItSis |[Still fighting hard? How to enhance your soft skills during the application!](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/44)|
 | JustDoItSis | [Research internships for undergraduates in various disciplines](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
 | Heystone999 | [23fall Waterloo ECE MEng non-Coop, ask me anything](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/34) |
+
+[↑ Return to top ↑](#UserGuide)
+
+## Language Exams
+
+> Click on the blue text to view. Any useful learning materials, study paths, and test experiences can be added.
+
+| Test | Resource Link |
+| --- | --- |
+| IELTS |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/3)|
+| TOEFL |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/4)|
+| PTE  |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/5)|
+| Duolingo |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/6)|
+| GRE  |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/7)|
+| GMAT  |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/8)|
+| German  |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/9)|
+| French  |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/10)|
+| Japanese  |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/11)|
+| Spanish |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/12)|
+| Dutch |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/13)|
+| Danish |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/14)|
+
+[↑ Return to top ↑](#UserGuide)
+
+
+## Application Materials
+
+> Any useful writing-related application materials, including but not limited to emails, cover letters, resumes, motivation letters, research plans, recommendation letters, etc.
+
+> For scholarships and summer schools, you can recommend some programs, especially **women-exclusive** **application tips/programs/scholarships**.
+
+| Category | Resource Link |
+| --- | --- |
+| CV PS RL SOP Collection |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/15)|
+| Reviews of Fiverr Website Document Polishing Teachers |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/16)|
+| CSC/Scholarship Application Collection |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/17)|
+| Summer Schools/Certifications/Background Enhancement Collection |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/18)|
+| Using ChatGPT and other AI tools to boost application |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
+
+[↑ Return to top ↑](#UserGuide)
+
+## Coding Transition Experience
+
+| Category | Resource Link |
+| --- | --- |
+| Transitioning to Coding: Application to Institutions |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/19)|
+| Transitioning to Coding: Practice - Frontend, Backend, Algorithms |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/20)|
+
+[↑ Return to top ↑](#UserGuide)
+
+## Application Experiences
+
+### She from Various Fields
+
+> Including special requirements for application materials of various disciplines, admission cases, etc.
+
+| Field | Application Guide |
+| --- | --- |
+| Arts/Humanities |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/48)|
+| Sciences/Engineering |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/49)|
+
+### She from All Over the World
+
+> Including websites of institutions in various regions, requirements for application materials, application process, admission cases, etc.
+
+> Some programs can be recommended, especially **women-exclusive** **application tips/programs/policies**.
+
+| Region | Universities and Applications |
+| --- | --- |
+| Hong Kong & Macau |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/39)|
+| Singapore |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/40)|
+| Europe |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/21)|
+| Germany |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/29)|
+| UK |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/31)|
+| Canada |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/34)|
+| Australia |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/35)|
+| USA |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/36)|
+| Japan & Korea |[Click to view details](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/37)|
 
 [↑ Return to top ↑](#UserGuide)
 
