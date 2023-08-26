@@ -129,7 +129,7 @@ Please click on the blue text to view. Any useful websites, experience sharing, 
 
 [↑ Return to top ↑](#UserGuide)
 
-## Acknowledgments and Disclaimer
+## Others
 
 ### ❤️ Buy a coffee
 
