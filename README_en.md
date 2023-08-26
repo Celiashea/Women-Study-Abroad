@@ -113,7 +113,7 @@ Please click on the blue text to view. Any useful websites, experience sharing, 
 
 > Some programs can be recommended, especially **women-exclusive** **application tips/programs/policies**.
 
-| She Want to Go | Universities and Applications |
+| Somewhere She Want to Go | Universities and Applications |
 | --- | --- |
 | Hong Kong & Macau |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/39)|
 | Singapore |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/40)|
