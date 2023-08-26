@@ -83,7 +83,7 @@ Please click on the blue text to view. Any useful websites, experience sharing, 
 | Reviews of Fiverr Website Document Polishing Teachers |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/16)|
 | CSC/Scholarship Application |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/17)|
 | Summer Schools/Certifications/Background Enhancement |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/18)|
-| Using ChatGPT and other AI tools to boost application |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
+| Using ChatGPT and other AI tools to help application |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/41)|
 
 [↑ Return to top ↑](#UserGuide)
 
