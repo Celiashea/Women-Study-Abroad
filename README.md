@@ -2,24 +2,14 @@
 
 
 
-<style>
-  .language-button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    text-decoration: none;
-    margin-right: 10px;
-  }
-</style>
-
-
 <div>
-  <a href="README.md" class="language-button">中文</a>
-  <a href="README_EN.md" class="language-button">English</a>
+  <a href="README.md">
+    <button>中文</button>
+  </a>
+  <a href="README_EN.md">
+    <button>English</button>
+  </a>
 </div>
-
 
 > **欢迎姐妹们一起交流留学申请，补充一些女性专属的申请tips/项目/奖学金/政策**
 
