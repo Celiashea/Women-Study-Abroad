@@ -3,7 +3,7 @@
 
 
 [![CN doc](https://img.shields.io/badge/中文版-blue.svg)](README.md)
-[![EN doc](https://img.shields.io/badge/English-blue.svg)](README_en.md)
+[![EN doc](https://img.shields.io/badge/English Version-blue.svg)](README_en.md)
 
 **Welcome sisters to share experiences on studying abroad，and adding some application tips/programs/scholarships/policies exclusive to women.**
 
