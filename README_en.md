@@ -73,7 +73,7 @@ Please click on the blue text to view. Any useful websites, experience sharing, 
 
 ## Application Materials
 
-> Any useful writing-related application materials, including but not limited to cover letters, resumes, motivation letters, research proposals, recommendation letters, etc.
+> Any useful writing-related application materials, including cover letters, resumes, motivation letters, research proposals, recommendation letters, etc.
 
 > For scholarships and summer schools, you can recommend some programs, especially **women-exclusive** **application tips/programs/scholarships**.
 
