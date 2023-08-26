@@ -137,9 +137,9 @@ Please consider buying me a coffee.
 
 ### 💛 Contact
 
-Sisters interested in contributing to and managing this repo are welcome to join the discussion group. [![Discord](https://img.shields.io/badge/Discord-WomenStudyAbroad-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
+- Chatting/Discussions on [![Discord](https://img.shields.io/badge/Discord-WomenStudyAbroad-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
+- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
 [![](https://img.shields.io/badge/-Celia_Atti-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61550683108775)](https://www.facebook.com/profile.php?id=61550683108775)
 [![](https://img.shields.io/github/followers/Celiashea?label=follow&style=social)](https://github.com/Celiashea)
