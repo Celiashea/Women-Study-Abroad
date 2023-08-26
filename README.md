@@ -2,8 +2,8 @@
 
 
 
-[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
-[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
+[![CN doc](https://img.shields.io/badge/中文版-blue.svg)](README.md)
+[![EN doc](https://img.shields.io/badge/English-blue.svg)](README_en.md)
 
 
 > **欢迎姐妹们一起交流留学申请，补充一些女性专属的申请tips/项目/奖学金/政策**
