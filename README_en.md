@@ -15,11 +15,11 @@ Adding some application tips/programs/scholarships/policies exclusive to women.
 
 ## User Guide
 
-Click on the blue text to view. Any useful websites, experience sharing, tools, and other resource links can be posted in the corresponding issues, especially those related to **women-exclusive** **application tips/programs/scholarships/policies**.
+Please click on the blue text to view. Any useful websites, experience sharing, tools, and other resource links can be posted in the corresponding issues, especially those related to **women-exclusive** **application tips/programs/scholarships/policies**.
 
 > Sisters are welcome to contribute, brainstorm and share experiences. You can fork the repository and then submit an issue, or directly post resource links in the corresponding issue.
 
-> Below are interactive discussions, feel free to click the links to comment and join the conversation!
+> Below are interactive discussions, please feel free to click the links to comment and join the conversation!
 
 - ["Newbie Introduction"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
   
@@ -156,3 +156,5 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 ### License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
+
+[↑ Return to top ↑](#UserGuide)
