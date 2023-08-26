@@ -137,7 +137,7 @@ Please consider buying me a coffee.
 
 ### 💛 Contact
 
-Sisters interested in contributing to and managing this repo are welcome to join the discussion group. [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
+Sisters interested in contributing to and managing this repo are welcome to join the discussion group. [![Discord](https://img.shields.io/badge/Discord-WomenStudyAbroad-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥺🥰🥳 My sister 👭
 [![](https://img.shields.io/badge/mail-Celiashea%40protonmail.com-red)](mailto:Celiashea@protonmail.com)
