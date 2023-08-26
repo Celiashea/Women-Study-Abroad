@@ -30,11 +30,11 @@ Please click on the blue text to view. Any useful websites, experience sharing, 
 
 | Section | Description |
 | --- | --- |
-| 💎 [Language Test](#LanguageTest) | [Study Materials][Learning Path][Test Experience]|
-| 📚 [Application Materials](#ApplicationMaterials) | [Writing][Editing][Background Enhancement] |
-| 👩‍💻 [Coding Transition](#CodingTransition) | [Application for Transition][Supplementary Classes][Coding]|
-| 🌟 [Application Experience](#ApplicationExperience) | [Application Websites][Application Material Requirements][Admission Cases] |
-| 👭 [Sister Shares](#SisterShares) | [Informative Sharing][Sisters' Assistance Ask Me Anything]|
+| 💎 [Language Test](#LanguageTest) | 1️⃣Study Materials2️⃣Learning Path3️⃣Test Experience|
+| 📚 [Application Materials](#ApplicationMaterials) | 1️⃣Personal Statement2️⃣Background Enhancement|
+| 👩‍💻 [Coding Transition](#CodingTransition) | 1️⃣Application for Transition2️⃣Coding Resources|
+| 🌟 [Application Experience](#ApplicationExperience) | 1️⃣Application Websites2️⃣Application Material Requirements3️⃣Admission Cases|
+| 👭 [Sister Shares](#SisterShares) | 🩷Sisters' Assistance Ask Me Anything|
 
 ## Sister Shares
 
