@@ -5,25 +5,31 @@
 [![CN doc](https://img.shields.io/badge/中文版-blue.svg)](README.md)
 [![EN doc](https://img.shields.io/badge/English-blue.svg)](README_en.md)
 
-**Welcome sisters to share experiences on studying abroad，and adding some application tips/programs/scholarships/policies exclusive to women.**
+Hey superstar sisters! 👋
 
-- Hope like-minded sisters can journey together! Both love and dreams should be win-win collaborations~
+I started this repo as a space for us to uplift each other as we navigate studying abroad. Let's share tips, women-only programs, scholarships, and any other wisdom that can help smooth the journey.
 
-- 📥 Pull requests and 🌟 Stars are always welcome.
+Studying overseas is an adventure, but it's nicer with friends! 🤝 Let's build an empowering community where we can collaborate, motivate, and learn from one another.
 
-## User Guide
+Get involved by:
 
-Please click on the blue text to view. Any useful websites, experience sharing, tools, and other resource links can be posted in the corresponding issues, especially those related to **women-exclusive** **application tips/programs/scholarships/policies**.
+- Sharing your expertise and stories 💡
+- Asking questions and sparking discussions 🗣
+- Contributing links/resources 📎
+- Giving compliments and encouragement 💖
+This is a judgment-free zone - we're all in it together! Proud of you for pursuing your academic dreams. ✨ Let's make this a rewarding and fun experience for all. Can't wait to connect!
 
-> Sisters are welcome to contribute, brainstorm and share experiences. You can fork the repository and then submit an issue, or directly post resource links in the corresponding issue.
+How to Get Involved
 
-> Below are interactive discussions, please feel free to click the links to comment and join the conversation!
+Share any useful websites, tips, or resources by submitting an issue or pull request! We especially welcome women-exclusive content.
+Join the conversations in our discussion topics:
+- Introduce yourself in ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
+- Give suggestions in ["Sisters Tea Party"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
+- Share mistakes and lessons learned in ["Oh Dear"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
+Ask questions, brainstorm ideas, and share your experiences! This is a collaborative space.
+Let's support each other as we follow our dreams. So excited to see this community grow! 🥰
 
-- ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
-  
-- ["Sisters Tea Party": Thoughts and Suggestions (Compliments are also welcome!)](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
-  
-- ["Oh Dear": Share a mistake you made during your study abroad journey.](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
+
   
 
 ## Table of Contents
