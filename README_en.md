@@ -17,6 +17,7 @@ Get involved by:
 - Asking questions and sparking discussions 🗣
 - Contributing links/resources 📎
 - Giving compliments and encouragement 💖
+  
 This is a judgment-free zone - we're all in it together! Proud of you for pursuing your academic dreams. ✨ Let's make this a rewarding and fun experience for all. Can't wait to connect!
 
 How to Get Involved
@@ -26,7 +27,9 @@ Join the conversations in our discussion topics:
 - Introduce yourself in ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
 - Give suggestions in ["Sisters Tea Party"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
 - Share mistakes and lessons learned in ["Oh Dear"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
+
 Ask questions, brainstorm ideas, and share your experiences! This is a collaborative space.
+
 Let's support each other as we follow our dreams. So excited to see this community grow! 🥰
 
 
