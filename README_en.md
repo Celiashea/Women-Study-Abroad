@@ -22,13 +22,13 @@ This is a judgment-free zone - we're all in it together! Proud of you for pursui
 
 How to Get Involved
 
-Share any useful websites, tips, or resources by submitting an issue or pull request! We especially welcome women-exclusive content.
-Join the conversations in our discussion topics:
-- Introduce yourself in ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
-- Give suggestions in ["Sisters Tea Party"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
-- Share mistakes and lessons learned in ["Oh Dear"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
+- Share any useful websites, tips, or resources by submitting an issue or pull request! We especially welcome women-exclusive content.
+- Join the conversations in our discussion topics:
+   - Introduce yourself in ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
+   - Give suggestions in ["Sisters Tea Party"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
+   - Share mistakes and lessons learned in ["Oh Dear"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/45)
 
-Ask questions, brainstorm ideas, and share your experiences! This is a collaborative space.
+- Ask questions, brainstorm ideas, and share your experiences! This is a collaborative space.
 
 Let's support each other as we follow our dreams. So excited to see this community grow! 🥰
 
