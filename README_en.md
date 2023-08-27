@@ -96,12 +96,12 @@ Let's support each other as we follow our dreams. So excited to see this communi
 
 [↑ Return to top ↑](#UserGuide)
 
-## Coding Transition Experience
+## Coding Transition
 
 | Category | Resource Link |
 | --- | --- |
-| Transitioning to Coding: Application to Institutions |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/19)|
-| Transitioning to Coding: Practice - Frontend, Backend, Algorithms |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/20)|
+| Applying to Coding Programs |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/19)|
+| Coding Practice: Frontend, Backend, Algorithms |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/20)|
 
 [↑ Return to top ↑](#UserGuide)
 
