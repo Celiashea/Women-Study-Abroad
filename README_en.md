@@ -20,7 +20,7 @@ Get involved by:
   
 This is a judgment-free zone - we're all in it together! Proud of you for pursuing your academic dreams. ✨ Let's make this a rewarding and fun experience for all. Can't wait to connect!
 
-How to Get Involved
+**How to Get Involved**
 
 - Share any useful websites, tips, or resources by submitting an issue or pull request! We especially welcome women-exclusive content.
 - Join the conversations in our discussion topics:
