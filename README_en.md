@@ -7,9 +7,9 @@
 
 Hey superstar sisters! 👋
 
-I started this repo as a space for us to uplift each other as we navigate studying abroad. Let's share tips, women-only programs, scholarships, and any other wisdom that can help smooth the journey.
+I started this repo as a space for us to uplift each other as we navigate studying abroad. Let's share application tips, women-only programs, scholarships, and any other wisdom that can help smooth the journey.
 
-Studying overseas is an adventure, but it's nicer with friends! 🤝 Let's build an empowering community where we can collaborate, motivate, and learn from one another.
+Studying overseas is an adventure, but it's better with friends! 👭 Let's build an empowering community where we can collaborate, motivate, and learn from one another.
 
 Get involved by:
 
@@ -20,9 +20,11 @@ Get involved by:
   
 This is a judgment-free zone - we're all in it together! Proud of you for pursuing your academic dreams. ✨ Let's make this a rewarding and fun experience for all. Can't wait to connect!
 
-### How to Get Involved
+Shine a ⭐ if this helps light the way!
 
-- Share any useful websites, tips, or resources by submitting an issue or pull request! We especially welcome women-exclusive content.
+### User Guide
+
+- Click the blue text to view. Please share any useful websites, tips, or resources by submitting an issue or pull request! We especially welcome women-exclusive content.
 - Join the conversations in our discussion topics:
    - Introduce yourself in ["Hi, my sister"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/2)
    - Give suggestions in ["Sisters Tea Party"](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/38)
