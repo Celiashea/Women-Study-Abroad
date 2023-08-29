@@ -109,7 +109,7 @@ Let's support each other as we follow our dreams. So excited to see this communi
 
 ## Application Experiences
 
-### Women from Various Fields
+### Various Fields
 
 > Including special requirements for application materials of various disciplines, admission cases, etc.
 
@@ -118,13 +118,13 @@ Let's support each other as we follow our dreams. So excited to see this communi
 | Arts/Humanities |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/48)|
 | Sciences/Engineering |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/49)|
 
-### Women Overseas
+### Various Regions
 
 > Including websites of institutions in various regions, requirements for application materials, application process, admission cases, etc.
 
 > Some programs can be recommended, especially **women-exclusive** **application tips/programs/policies**.
 
-| Somewhere She Want to Go | Universities and Applications |
+| Women Overseas | Universities and Applications |
 | --- | --- |
 | Hong Kong & Macau |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/39)|
 | Singapore |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/40)|
