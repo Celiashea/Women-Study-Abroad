@@ -118,7 +118,7 @@ Let's support each other as we follow our dreams. So excited to see this communi
 | Arts/Humanities |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/48)|
 | Sciences/Engineering |[Read More](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/49)|
 
-### Women from All Over the World
+### Women Overseas
 
 > Including websites of institutions in various regions, requirements for application materials, application process, admission cases, etc.
 
