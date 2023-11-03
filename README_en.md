@@ -43,7 +43,7 @@ Let's support each other as we follow our dreams. So excited to see this communi
 | --- | --- |
 | 💎 [Language Test](#LanguageTest) | 1️⃣Study Materials2️⃣Learning Path3️⃣Test Experience|
 | 📚 [Application Materials](#ApplicationMaterials) | 1️⃣Writing for Applications2️⃣Scholarships3️⃣Summer Schools|
-| 👩‍💻 [Coding Transition](#CodingTransition) | 1️⃣Application for Transition2️⃣Coding Resources|
+| 👩‍💻 [Coding](#Coding) | 1️⃣Applying to Coding Programs2️⃣Coding Resources|
 | 🌟 [Application Experience](#ApplicationExperience) | 1️⃣Application Websites2️⃣Application Material Requirements3️⃣Admission Cases|
 | 👭 [Sister Shares](#SisterShares) | 🩷Sisters' Assistance Ask Me Anything|
 
@@ -98,7 +98,7 @@ Let's support each other as we follow our dreams. So excited to see this communi
 
 [↑ Return to top ↑](#UserGuide)
 
-## Coding Transition
+## Coding
 
 | Category | Resource Link |
 | --- | --- |
