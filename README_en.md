@@ -140,11 +140,6 @@ Let's support each other as we follow our dreams. So excited to see this communi
 
 ## Others
 
-### ❤️ Buy a coffee
-
-Please consider buying me a coffee.
-
-<a href='https://postimg.cc/k22KyY9W' target='_blank'><img src='https://i.postimg.cc/k22KyY9W/celia.png' border='0' alt='celia'/></a>
 
 ### 💛 Contact
 
