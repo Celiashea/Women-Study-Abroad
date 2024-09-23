@@ -146,6 +146,14 @@
 ## 鸣谢与声明
 
 
+
+### ❤️ Buy a coffee
+
+为爱发电，支持一下姐妹👭 
+
+<a href='https://postimg.cc/QHtjNwL5' target='_blank'><img src='https://i.postimg.cc/TYj10vCk/Celiashea.png' border='0' alt='celia'/></a>
+
+
 ### 💛 Contact
 
 欢迎有意参与本repo建设和管理的姊妹加入交流群  [![Discord](https://img.shields.io/badge/Discord-留学姊妹｜海妖的呼唤-%235865F2?style=flat-square&logo=discord)](https://discord.gg/BKBkMFTtC7)
